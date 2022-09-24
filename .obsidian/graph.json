@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.40844332494219837,
-  "close": false
+  "scale": 0.48854597807787203,
+  "close": true
 }

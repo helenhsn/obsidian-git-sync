@@ -1,1 +1,3 @@
-[[INFORMATION]]
+### Granularity
+
+###### Subsection of [[INFORMATION]]

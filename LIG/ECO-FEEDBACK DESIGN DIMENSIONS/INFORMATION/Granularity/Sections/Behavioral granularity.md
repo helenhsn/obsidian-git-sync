@@ -1,1 +1,3 @@
-[[Granularity]]
+### Behavioral granularity
+
+###### Subsection of [[Granularity]]

@@ -1,1 +1,3 @@
-[[TIMING]]
+### Frequency & Duration
+
+###### Subsection of [[TIMING]]

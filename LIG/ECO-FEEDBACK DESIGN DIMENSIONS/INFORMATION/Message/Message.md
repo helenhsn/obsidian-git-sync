@@ -1,1 +1,3 @@
-[[INFORMATION]]
+### Message
+
+###### Subsection of [[INFORMATION]]

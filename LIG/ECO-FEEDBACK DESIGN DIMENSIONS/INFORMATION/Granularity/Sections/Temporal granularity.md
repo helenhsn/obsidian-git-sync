@@ -1,1 +1,3 @@
-[[Granularity]]
+### Temporal granularity
+
+###### Subsection of [[Granularity]]

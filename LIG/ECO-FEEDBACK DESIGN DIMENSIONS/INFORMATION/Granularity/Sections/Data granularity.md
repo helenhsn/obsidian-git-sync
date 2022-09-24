@@ -1,1 +1,3 @@
-[[Granularity]]
+### Data granularity
+
+###### Subsection of [[Granularity]]
