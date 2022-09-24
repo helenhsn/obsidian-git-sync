@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305
   },
   "right": {
     "id": "6c94fcfd0c07cafa",
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f84778f516c1ff1",
+  "active": "61029e6d7dd6dfe9",
   "lastOpenFiles": [
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/TIMING/Timing.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Contextual information.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Mechanism.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
     "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/ECO FEEDBACK DESIGN DIMENSIONS.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Contextual information.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Valence.md",
     "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Message.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Granularity.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Metrics.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
     "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md"
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Location.md"
   ]
 }
