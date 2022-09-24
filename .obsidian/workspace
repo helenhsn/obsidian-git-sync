@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "cca6963653fae2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac217e8061b82c8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae9b408f2ee1d848",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7716282e9006c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f569b879c00b248e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2af23e0d5107f047",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64f2d087e95e5074",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f70e485e8189197",
+    "type": "split",
+    "children": [
+      {
+        "id": "646052dd29314893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de9cb8ffec2277f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fde7e69bdcde9b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0db8bc66d6b82fbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1ee6b6a556533cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ac217e8061b82c8",
+  "lastOpenFiles": [
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/ECO FEEDBACK DESIGN DIMENSIONS.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Granularity.md",
+    "Temporal.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Message.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/TIMING/TIMING.md"
+  ]
+}
