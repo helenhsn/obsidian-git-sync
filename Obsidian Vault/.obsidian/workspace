@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "4a4ca986f2db9bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "61029e6d7dd6dfe9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22100e18bc323b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "14c35666e2c362f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f84778f516c1ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c323e822182b733",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e607f32a42a96cbc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c94fcfd0c07cafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "49094148f346e242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ac1432251517e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0b17e3b721dbb0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "460c4626f45a859d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab841451a63d4af0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f84778f516c1ff1",
+  "lastOpenFiles": [
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/TIMING/Timing.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Contextual information.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Mechanism.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/ECO FEEDBACK DESIGN DIMENSIONS.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Message.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Granularity.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md"
+  ]
+}
