@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4a4ca986f2db9bf0",
+    "id": "cca6963653fae2f6",
     "type": "split",
     "children": [
       {
-        "id": "61029e6d7dd6dfe9",
+        "id": "330b13b70d3b83b1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "22100e18bc323b63",
+    "id": "ae9b408f2ee1d848",
     "type": "split",
     "children": [
       {
-        "id": "14c35666e2c362f9",
+        "id": "4b7716282e9006c7",
         "type": "tabs",
         "children": [
           {
-            "id": "0f84778f516c1ff1",
+            "id": "f569b879c00b248e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "8c323e822182b733",
+            "id": "2af23e0d5107f047",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "e607f32a42a96cbc",
+            "id": "64f2d087e95e5074",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,18 +57,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 300
   },
   "right": {
-    "id": "6c94fcfd0c07cafa",
+    "id": "4f70e485e8189197",
     "type": "split",
     "children": [
       {
-        "id": "49094148f346e242",
+        "id": "646052dd29314893",
         "type": "tabs",
         "children": [
           {
-            "id": "31ac1432251517e9",
+            "id": "0de9cb8ffec2277f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "b0b17e3b721dbb0c",
+            "id": "3fde7e69bdcde9b2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "460c4626f45a859d",
+            "id": "0db8bc66d6b82fbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "ab841451a63d4af0",
+            "id": "a1ee6b6a556533cc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,17 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61029e6d7dd6dfe9",
+  "active": "330b13b70d3b83b1",
   "lastOpenFiles": [
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/TIMING/TIMING.md",
     "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/ECO FEEDBACK DESIGN DIMENSIONS.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Contextual information.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Valence.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Message.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Metrics.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Location.md"
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Message.md"
   ]
 }
