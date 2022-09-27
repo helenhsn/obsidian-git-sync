@@ -7,12 +7,8 @@
         "id": "1ac217e8061b82c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ac217e8061b82c8",
+  "active": "0de9cb8ffec2277f",
   "lastOpenFiles": [
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Mechanism.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Location.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Audience.md",
     "LIG/ECO-FEEDBACK DEVICES/Energy/Descriptions/Nuage Vert.md",
-    "LIG/ECO-FEEDBACK DEVICES/Energy/Table.md"
+    "LIG/ECO-FEEDBACK DEVICES/Energy/Table.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Audience.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Data granularity.md",
+    "LIG/ECO-FEEDBACK-QUALITIES/ECO-FEEDBACK-QUALITIES.md",
+    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/ECO FEEDBACK DESIGN DIMENSIONS.md",
+    "LIG/ECO-FEEDBACK-MECHANISMS/ECO-FEEDBACK-MECHANISMS.md",
+    "LIG/ECO-FEEDBACK-QUALITIES/Meaning.md",
+    "LIG/ECO-FEEDBACK-QUALITIES/Precision.md",
+    "LIG/ECO-FEEDBACK-QUALITIES/Salience.md"
   ]
 }

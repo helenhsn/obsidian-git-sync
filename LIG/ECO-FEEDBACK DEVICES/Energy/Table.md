@@ -1,29 +1,4 @@
 # Empty description (TO BE USED FOR DESCRIPTION)
-- [ ]  **DISPLAY**
-	- [ ] *Accessibility*
-		- [[Audience]] : 
-		- [[Location]] : 
-		- [[Response requirement]] : 
-	- [ ] *Mechanism*
-		- [[Medium]] :
-		- [[Modality]] :
-		- [[Style]] :
-
-- [ ]  **INFORMATION**
-	- [ ] *Granularity*
-		- [[Behavioral granularity]] :
-		- [[Data granularity]] :
-		- [[Temporal granularity]] :
-	- [ ] Message
-		- [[Contextual information]] :
-		- [[Metrics]] :
-		- [[Valence]] :
-
-- [ ]  **TIMING**
-	- [[Frequency & Duration]] :
-	- [[Latency]] :
-	- [[Strategic timing]] :
-
 
 # Table 
 
