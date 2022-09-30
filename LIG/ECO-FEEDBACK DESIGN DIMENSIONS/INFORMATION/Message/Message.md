@@ -9,6 +9,7 @@ It is separated into three dimensions :
 	- [[Valence]]
 	- [[Contextual information]]
 
-> These dimensions pertain to how data is **framed** for the user, and they have implications for **how meaningful** the user **perceives** the feedback to be, and thus their motivation for responding to it
+>[!PERTINENCE]
+These dimensions pertain to how data is **framed** for the user, and they have implications for **how meaningful** the user **perceives** the feedback to be, and thus their motivation for responding to it
 
 ![[message.png]]

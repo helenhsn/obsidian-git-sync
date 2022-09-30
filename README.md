@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/\" - file:DISPLAY",
+      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/\" - file:DISPLAY - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Audience/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Location/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style/\" - path:",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION\" ",
+      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION\"  - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Behavioral granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Data granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Temporal granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Metrics/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Valence/\"",
       "color": {
         "a": 1,
         "rgb": 3630787
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.847926267281106,
   "linkDistance": 262,
-  "scale": 0.28548580833377873,
+  "scale": 0.11660477277965912,
   "close": false
 }

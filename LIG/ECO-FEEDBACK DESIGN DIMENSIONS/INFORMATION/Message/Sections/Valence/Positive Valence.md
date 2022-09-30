@@ -1,1 +1,1 @@
-See [[Valence#^6aeee1]].
+See [[Valence#Positive Valence]].
