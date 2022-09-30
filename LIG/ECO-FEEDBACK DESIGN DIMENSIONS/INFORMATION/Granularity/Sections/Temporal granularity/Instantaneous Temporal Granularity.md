@@ -1,0 +1,1 @@
+See [[Temporal granularity#^47e5a0]].

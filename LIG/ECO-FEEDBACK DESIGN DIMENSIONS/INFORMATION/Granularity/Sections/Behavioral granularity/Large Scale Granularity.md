@@ -1,0 +1,1 @@
+See [[Behavioral granularity#Large scale granularity]].
