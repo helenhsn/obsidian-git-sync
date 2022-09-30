@@ -1,10 +1,12 @@
 # Eco-feedback classification
 See this [article](https://cloud.univ-grenoble-alpes.fr/s/2Bm5iiQrwyW7GNf?dir=undefined&path=%2FPrincipes%20de%20l%27%C3%A9co-feedback&openfile=497438896)
 
->**Eco-feedback** is information about resource (energy, water, food) consumption provided back to consumer(s)  with the *goal* of promoting more *sustainable* behavior.
+>[!DEFINITION]
+**Eco-feedback** is information about resource (energy, water, food) consumption provided back to consumer(s)  with the *goal* of promoting more *sustainable* behavior.
 
 As scientists realized, the way the information are shared is a key element to change users behaviour. Indeed, some experiences have shown that it can even lead to the opposite desired behaviour.
 
+>[!ATTENTION]
 >**Effective** eco-feedback relies upon an understanding of  *key eco-feedback design* dimensions and how they relate to *behavior change*. 
 
 ## General behavioral mechanisms
