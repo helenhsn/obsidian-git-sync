@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "cca6963653fae2f6",
+    "id": "b31d7b6515db4d86",
     "type": "split",
     "children": [
       {
-        "id": "1ac217e8061b82c8",
+        "id": "2536cce8c206949a",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ae9b408f2ee1d848",
+    "id": "3b6fd6a01de2cb14",
     "type": "split",
     "children": [
       {
-        "id": "4b7716282e9006c7",
+        "id": "9eef1014eb5edac9",
         "type": "tabs",
         "children": [
           {
-            "id": "f569b879c00b248e",
+            "id": "cd7ae365ac56d7ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "2af23e0d5107f047",
+            "id": "bde338e0b6e8755c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "64f2d087e95e5074",
+            "id": "2c7e5dfa6d7930a3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "4f70e485e8189197",
+    "id": "78d614fb2fd06225",
     "type": "split",
     "children": [
       {
-        "id": "646052dd29314893",
+        "id": "abd19dc295a6a07b",
         "type": "tabs",
         "children": [
           {
-            "id": "0de9cb8ffec2277f",
+            "id": "35f56e1c0321302e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "3fde7e69bdcde9b2",
+            "id": "6e3634c8b1b0b369",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "0db8bc66d6b82fbd",
+            "id": "28884b23b0ded998",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "a1ee6b6a556533cc",
+            "id": "9b9efc1e87415bb2",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,17 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ac217e8061b82c8",
-  "lastOpenFiles": [
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Response requirement.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Location.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Sections/Audience.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Accessibility/Accessibility.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Style.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Modality.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Sections/Medium.md",
-    "LIG/ECO-FEEDBACK DESIGN DIMENSIONS/DISPLAY/Mechanism/Mechanism.md",
-    "LIG/ECO-FEEDBACK DEVICES/Energy/Descriptions/Nuage Vert.md",
-    "LIG/ECO-FEEDBACK DEVICES/Energy/Table.md"
-  ]
+  "active": "2536cce8c206949a",
+  "lastOpenFiles": []
 }

@@ -10,28 +10,28 @@
 
 - [ ]  **DISPLAY**
 	- [ ] *Accessibility*
-		- [[Audience]] : public 
-		- [[Location]] : central location, above power plant displayed in the sky
-		- [[Response requirement]] : easy/direct access, no specific requirements for the user
+		- Audience : public 
+		- Location : central location, above power plant displayed in the sky
+		- Response requirement : easy/direct access, no specific requirements for the user
 	- [ ] *Mechanism*
-		- [[Medium]] :
-		- [[Modality]] :
-		- [[Style]] :
+		- Medium :
+		- Modality :
+		- Style :
 
 - [ ]  **INFORMATION**
 	- [ ] *Granularity*
-		- [[Behavioral granularity]] : public 
-		- [[Data granularity]] : central location, above power plant displayed in the sky
-		- [[Temporal granularity]] : easy/direct access, no specific requirements for the user
+		- Behavioral granularity : public 
+		- Data granularity : central location, above power plant displayed in the sky
+		- Temporal granularity : easy/direct access, no specific requirements for the user
 	- [ ] Message
-		- [[Contextual information]] :
-		- [[Metrics]] :
-		- [[Valence]] :
+		- Contextual information :
+		- Metrics :
+		- Valence :
 
 - [ ]  **TIMING**
-	- [[Frequency & Duration]] :
-	- [[Latency]] :
-	- [[Strategic timing]] :
+	- Frequency & Duration :
+	- Latency :
+	- Strategic timing :
 
 
 #### OUTCOMES
