@@ -5,7 +5,7 @@
 - *What is the perceptual mode of interface ?*
 
 ##### Notes
-> Relates to the perceptual mode of interface. The **predominant mode** of eco-feedback is **[[visual]]**, but there are some excellent examples regarding **[[auditory]]** and **[[tactile]]** eco-feedbacks.
+> Relates to the perceptual mode of interface. The **predominant mode** of eco-feedback is **[[Visual]]**, but there are some excellent examples regarding **[[Auditory]]** and **[[Tactile]]** eco-feedbacks.
 > No examples regarding **[[taste]]** and **[[smell]]** eco-feedbacks.
 > **[[Tactile]]**, **[[Highly interactive]]** and **[[Ambient]]** visual ecofeedbacks are categorized as experiential. **[[Tangible]]** eco-feedback is largely unexplored.
 
