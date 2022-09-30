@@ -1,3 +1,0 @@
-### Latency
-
-###### Subsection of [[TIMING]]

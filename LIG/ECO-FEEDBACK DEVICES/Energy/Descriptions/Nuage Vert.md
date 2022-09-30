@@ -10,12 +10,12 @@
 
 - [ ]  **DISPLAY**
 	- [ ] *Accessibility*
-		- Audience : public 
-		- Location : central location, above power plant displayed in the sky
+		- Audience : [[Public audience]] 
+		- Location : central location, above power plant displayed in the sky. [[Strategic location]].
 		- Response requirement : easy/direct access, no specific requirements for the user
 	- [ ] *Mechanism*
 		- Medium :
-		- Modality :
+		- Modality : [[Ambient]] modality.
 		- Style :
 
 - [ ]  **INFORMATION**

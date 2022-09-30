@@ -1,5 +1,4 @@
 ### Accessibility
-
 ###### Subsection of [[DISPLAY]]
 
 ##### DEFINITION
