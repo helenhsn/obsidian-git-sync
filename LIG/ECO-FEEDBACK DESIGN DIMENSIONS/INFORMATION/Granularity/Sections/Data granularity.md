@@ -1,10 +1,17 @@
-### Data granularity
+# Data granularity
 
 ###### Subsection of [[Granularity]]
+
+## Definition
+>**Data granularity** is the resolution  of information conveyed, which corresponds to the amount of levels, or differentiation provided, in the data.
 
 > **Numeric data** typically have **high** data granularity, whereas  
 a **light that changes colors** between green, yellow, and red has **low** data  
 granularity.
+
+^89ac84
+
+## Effects
 
 > When feedback reflects **very small increases and decreases** in  
 the magnitude of target behavior it is more *precise* and thus more  

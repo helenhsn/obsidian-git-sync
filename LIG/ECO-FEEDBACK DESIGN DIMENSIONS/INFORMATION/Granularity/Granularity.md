@@ -2,6 +2,8 @@
 
 ###### Subsection of [[INFORMATION]]
 
+**Granularity** refers to the *degree* of fine to coarse information provided. 
+
 There are three types of granularity : 
 	- [[Behavioral granularity]]
 	- [[Data granularity]]
