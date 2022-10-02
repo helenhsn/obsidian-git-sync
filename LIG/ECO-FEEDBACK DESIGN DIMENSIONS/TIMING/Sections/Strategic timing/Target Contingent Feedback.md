@@ -1,0 +1,1 @@
+See [[Strategic timing#^e1b8e0]].

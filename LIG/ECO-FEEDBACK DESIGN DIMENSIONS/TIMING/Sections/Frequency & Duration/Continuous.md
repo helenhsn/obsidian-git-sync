@@ -1,0 +1,1 @@
+See [[Frequency & Duration#^02bcd5]].
