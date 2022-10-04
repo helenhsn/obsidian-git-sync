@@ -2,7 +2,7 @@
 ###### Subsection of [[Mechanism]]
 
 ##### Question related
-- *What is the perceptual mode of interface ?*
+- *What is the perceptual mode of interface?*
 
 ##### Notes
 > Relates to the perceptual mode of interface. The **predominant mode** of eco-feedback is **[[Visual]]**, but there are some excellent examples regarding **[[Auditory]]** and **[[Tactile]]** eco-feedbacks.

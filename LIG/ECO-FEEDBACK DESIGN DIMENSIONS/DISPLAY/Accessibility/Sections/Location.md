@@ -2,7 +2,7 @@
 ###### Subsection of [[Accessibility]]
 
 ##### Question related
-- *Where it is accessed ?*
+- *Where it is accessed?*
 
 ##### Notes
 

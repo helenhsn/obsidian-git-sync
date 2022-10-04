@@ -1,6 +1,8 @@
 # Behavioral granularity
-
 ###### Subsection of [[Granularity]]
+
+##### Question related
+- *What behavior is being reflected in the eco-feedback?*
 
 >[!DEFINITION]
 >Behavioral granularity describes **whose**  behavior and **which** particular behavior(s) are **reflected** in the data, i.e.,  the target consumer(s) and target behavior(s). For example, some ecofeedback reflects the behavior of an individual (e.g., eco-driving feedback that reflects the driver’s operation of the vehicle), whereas  other eco-feedback reflects the behavior of entire communities.

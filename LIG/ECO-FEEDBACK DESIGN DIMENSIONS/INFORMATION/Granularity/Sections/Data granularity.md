@@ -1,7 +1,8 @@
 # Data granularity
-
 ###### Subsection of [[Granularity]]
 
+##### Question related
+- *Does the data reflect precisely the behavior?*
 
 >[!DEFINITION]
 >**Data granularity** is the resolution  of information conveyed, which corresponds to the amount of levels, or differentiation provided, in the data.

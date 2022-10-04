@@ -1,6 +1,8 @@
 # Metrics
-
 ###### Subsection of [[Message]]
+
+##### Question related
+- *Is the eco-feedback displayed with direct/accurate or 'motivating' measurements?*
 
 ### Metrics actions
 

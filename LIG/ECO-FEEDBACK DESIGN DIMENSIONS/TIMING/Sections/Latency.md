@@ -2,7 +2,7 @@
 ###### Subsection of [[TIMING]]
 
 ##### Question related 
-- *How long after relevant behavior/consumption occurs is feedback presented/updated ?*
+- *How long after relevant behavior/consumption occurs is feedback presented/updated?*
 
 > [!DEFINITION]
 Latency refers to the immediacy of eco-feedback after the target  

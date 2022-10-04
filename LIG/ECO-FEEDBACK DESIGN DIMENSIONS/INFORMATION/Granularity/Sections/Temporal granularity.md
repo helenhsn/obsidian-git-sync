@@ -1,6 +1,8 @@
 # Temporal granularity
-
 ###### Subsection of [[Granularity]]
+
+##### Question related
+- *Is the eco-feedback displaying instant behavior or long-time period behavior?*
 
 >[!DEFINITION]
 >**Temporal granularity** refers to the time period reflected in eco-feedback data.

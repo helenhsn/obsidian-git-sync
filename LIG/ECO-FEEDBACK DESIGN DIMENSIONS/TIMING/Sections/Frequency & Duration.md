@@ -2,14 +2,14 @@
 ###### Subsection of [[TIMING]]
 
 ##### Question related
-- *How often is feedback presented/updated and for how long (to the audience) ?*
+- *How often is feedback presented/updated and for how long (to the audience)?*
 
 > [!DEFINITION]
 > We use the term frequency to refer to the frequency with which  
 feedback is updated, i.e., not when it is available (e.g., daily feedback  
 could be continuously available).
 
->[!DEFINITION] Definition floue
+>[!DEFINITION] Definition (fuzzy)
 >Frequency is closely related to the **duration** of feedback presentation.  
 For example, the term continuous can describe both frequency and  
 duration–feedback updated and presented continuously, i.e., real-time.

@@ -2,7 +2,7 @@
 ###### Subsection of [[TIMING]]
 
 ##### Question related 
-- *At what specific time is feedback presented/updated ?*
+- *At what specific time is feedback presented/updated?*
 
 > [!DEFINITION]
 Feedback presentation can occur at strategic times, when consumers  

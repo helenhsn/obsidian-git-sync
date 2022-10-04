@@ -2,7 +2,7 @@
 ###### Subsection of [[Accessibility]]
 
 ##### Question related
-- *Who can access it ?*
+- *Who can access it?*
 
 ##### Notes
 

@@ -1,6 +1,8 @@
 # Contextual information
-
 ###### Subsection of [[Message]]
+
+##### Question related
+- *What is the context of the eco-feedback?*
 
 >[!PERTINENCE]
 According to Feedback Intervention Theory (FIT)), feedback can **regulate behavior** by allowing  **comparison of performance to a standard**. Eco-feedback often  includes a feedback standard.

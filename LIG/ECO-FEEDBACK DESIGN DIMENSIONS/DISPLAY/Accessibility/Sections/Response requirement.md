@@ -2,7 +2,7 @@
 ###### Subsection of [[Accessibility]]
 
 ##### Question related
-- *How it is accessed ?*
+- *How it is accessed?*
 
 ##### Notes
 > Response required for user(s) to access the eco-feedback. The easier the access is, the more likely users will attend to the feedback.

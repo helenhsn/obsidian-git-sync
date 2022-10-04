@@ -1,6 +1,8 @@
 # Valence
-
 ###### Subsection of [[Message]]
+
+##### Question related
+- *Is the feedback being framed positively/negatively?*
 
 > [!DEFINITION]
 >Additionally, information may be **framed positively** or **negatively**, e.g., carbon dioxide emitted or offset, resources *saved*, *used*, or *wasted*; the **sign** of measurement units can also be considered valence

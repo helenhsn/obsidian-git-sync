@@ -2,7 +2,7 @@
 ###### Subsection of [[Mechanism]]
 
 ##### Question related
-- *What is the physical origin ?*
+- *What is the physical origin?*
 
 ##### Notes
 > Refers to the physical origin of an eco-feedback. Can be refered also as **feedback source**.
