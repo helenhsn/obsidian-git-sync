@@ -8,6 +8,14 @@
 |Article | [Article](https://sci-hub.hkvisa.net/10.1145/2858036.2858403)| Alexis Hiniker, Sungsoo (Ray) Hong, Tadayoshi Kohno, and Julie A. Kientz. 2016. MyTime: Designing and Evaluating an Intervention for Smartphone Non-Use. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). Association for Computing Machinery, New York, NY, USA, 4746–4757. https://doi.org/10.1145/2858036.2858403 | [Article](https://cloud.univ-grenoble-alpes.fr/s/2Bm5iiQrwyW7GNf?path=%2FExemples%20usages%20du%20num%C3%A9riques) | [[MyTime]]
 |Article | [Article](https://sci-hub.hkvisa.net/10.1145/2858036.2858568)| Minsam Ko, Seungwoo Choi, Koji Yatani, and Uichin Lee. 2016. Lock n' LoL: Group-based Limiting Assistance App to Mitigate Smartphone Distractions in Group Activities. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). Association for Computing Machinery, New York, NY, USA, 998–1010. https://doi.org/10.1145/2858036.2858568 | [Article](https://cloud.univ-grenoble-alpes.fr/s/2Bm5iiQrwyW7GNf?path=%2FExemples%20usages%20du%20num%C3%A9riques) | [[Lock n' LoL]]
 
+## Probablement intéressant
+ * [Functional Digital Nudges: Identifying Optimal Timing for Effective Behavior Change](https://dl.acm.org/doi/10.1145/3290607.3312876)
+ * [Good vibrations: can a digital nudge reduce digital overload?](https://dl.acm.org/doi/10.1145/3229434.3229463)
+ * [Designing for Digital Detox: Making Social Media Less Addictive with Digital Nudges](https://dl.acm.org/doi/10.1145/3334480.3382810)
+ * [Where did the time go?: an Android-based phone time management app](https://dl.acm.org/doi/10.5555/3447080.3447122)
+
+## Peut-être intéressant
+* [Commitment devices in online behavior change support systems](https://dl.acm.org/doi/10.1145/3309700.3338446)
 
 
 ## Not sure ???
