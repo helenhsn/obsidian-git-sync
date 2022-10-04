@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "TIMING",
+      "query": "TIMING - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/TIMING/Sections/Strategic timing/\"",
       "color": {
         "a": 1,
         "rgb": 2472841
       }
     },
     {
-      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION\"  - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Behavioral granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Data granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Temporal granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Metrics/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Valence/\"",
+      "query": "path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION\"  - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Behavioral granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Data granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Granularity/Sections/Temporal granularity/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Metrics/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Valence/\" - path:\"LIG/ECO-FEEDBACK DESIGN DIMENSIONS/INFORMATION/Message/Sections/Contextual information/\"",
       "color": {
         "a": 1,
         "rgb": 3630787
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.847926267281106,
   "linkDistance": 262,
-  "scale": 0.11660477277965912,
-  "close": false
+  "scale": 0.19954334367325993,
+  "close": true
 }
