@@ -45,8 +45,8 @@ which feedback functions as a reinforcer for target behavior
 ## Eco-Feedback design dimensions
 
 The author analysis yielded three types of **eco-feedback design dimensions** :
-	- [[Information]]
-	- [[Display]]
-	- [[Timing]]
+	- [[INFORMATION]]
+	- [[DISPLAY]]
+	- [[TIMING]]
 
 ![[eco-feedback-class.png|700]]

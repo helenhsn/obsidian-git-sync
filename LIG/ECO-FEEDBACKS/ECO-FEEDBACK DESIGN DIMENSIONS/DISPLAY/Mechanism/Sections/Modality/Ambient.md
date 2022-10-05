@@ -3,7 +3,7 @@
 ##### Description
 > Special class of modality. Provides information via **subtle, aesthetically pleasing changes** that can be absorbed while a user is attenting to another task.
 
-> Ambient displays tend to **reduce information [[granularity]]** so the user can **understand it from the periphery of their perception** (via varying the salience of the display accroding to the varying importance of different information provided = **notification levels**).
+> Ambient displays tend to **reduce information [[Granularity]]** so the user can **understand it from the periphery of their perception** (via varying the salience of the display accroding to the varying importance of different information provided = **notification levels**).
 
 > Ambient eco-feedback seems to be effective regarding **energy savings**, load shiftings, increased awareness of energy use.
 
