@@ -22,6 +22,9 @@
  * [Designing for Digital Detox: Making Social Media Less Addictive with Digital Nudges](https://dl.acm.org/doi/10.1145/3334480.3382810)
  * [Where did the time go?: an Android-based phone time management app](https://dl.acm.org/doi/10.5555/3447080.3447122)
 
++ [Digital Nudging: Altering User Behavior in Digital Environments](https://www.semanticscholar.org/paper/Digital-Nudging%3A-Altering-User-Behavior-in-Digital-Mirsch-Lehrer/30633a83656b493627a4c2e5dca412040ebf92e8)
++ [Digital Nudging](https://link.springer.com/content/pdf/10.1007/s12599-016-0453-1.pdf)
++ [The Nudge Deck: A Design Support Tool for Technology-Mediated Nudging](https://sci-hub.st/https://dl.acm.org/doi/10.1145/3357236.3395485)
 
 ## Not sure ???
 https://assets.website-files.com/5f340a9c3a168c42579d818b/5ffd48267e1b89297ed74d15_Digital%20Nudges%20for%20Screen%20Time%20Reduction%20(Zimmermann%20and%20Sobolev%2C%202020).pdf
