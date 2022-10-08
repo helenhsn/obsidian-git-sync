@@ -1,8 +1,3 @@
-# Useful Keywords <!>
-- Digital Overload
-- Digital Nudges
-- 
-
 # Table of references
 
 | Article type | Link | Complete reference (or DOI) |  Source | Description |
@@ -15,7 +10,14 @@
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3290605.3300696)| Kelly Widdicks, Mike Hazas, Oliver Bates, and Adrian Friday. 2019. Streaming, Multi-Screens and YouTube: The New (Unsustainable) Ways of Watching in the Home. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 466, 1–13. https://doi.org/10.1145/3290605.3300696 | ACM | [[Data demand analysis 3]]
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3532106.3533562)| Akash Chaudhary, Jaivrat Saroha, Kyzyl Monteiro, Angus G. Forbes, and Aman Parnami. 2022. “Are You Still Watching?”: Exploring Unintended User Behaviors and Dark Patterns on Video Streaming Platforms. In Designing Interactive Systems Conference (DIS '22). Association for Computing Machinery, New York, NY, USA, 776–791. https://doi.org/10.1145/3532106.3533562 | ACM | [[Dark patterns in Streaming Platforms]]
 
-
+# Articles to study (Ln section)
+- [DIGITAL SUFFICIENCY -> qd est-ce qu'on considère qu'on a une conduite éco vis-à-vis des technologies ?](https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf)
+	keywords: Green IT · ICT for sustainability · Sustainable software · Sustainable production and consumption · Rebound effects · Economic growth · Degrowth
+- [Towards a Material Ethics of Computing: Addressing the Uneven Environmental Stakes of Digital Infrastructures](https://dl.acm.org/doi/10.1145/3491101.3505649)
+	keywords:
+- [All you can stream: Investigating the role of user behavior for greenhouse gas intensity of video streaming](https://sci-hub.hkvisa.net/10.1145/3401335.3401709)
+	keywords: Video streaming, LCA, pro-environmental behavior, ICT, interdisciplinary, survey
+- [Physicalizing Sustainable Development Goals Data: An Example with SDG 7 (Affordable and Clean Energy)](https://dl.acm.org/doi/pdf/10.1145/3491101.3519638)
 # Articles to study (Brice Section)
 
 ## Interesting ++
