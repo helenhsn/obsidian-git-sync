@@ -9,6 +9,7 @@
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3338103.3338105)| Kelly Widdicks and Daniel Pargman. 2019. Breaking the Cornucopian Paradigm: Towards Moderate Internet Use in Everyday Life. In Proceedings of the Fifth Workshop on Computing within Limits (LIMITS '19). Association for Computing Machinery, New York, NY, USA, Article 2, 1–8. https://doi.org/10.1145/3338103.3338105 | ACM | [[Data demand analysis 2]]
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3290605.3300696)| Kelly Widdicks, Mike Hazas, Oliver Bates, and Adrian Friday. 2019. Streaming, Multi-Screens and YouTube: The New (Unsustainable) Ways of Watching in the Home. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 466, 1–13. https://doi.org/10.1145/3290605.3300696 | ACM | [[Data demand analysis 3]]
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3532106.3533562)| Akash Chaudhary, Jaivrat Saroha, Kyzyl Monteiro, Angus G. Forbes, and Aman Parnami. 2022. “Are You Still Watching?”: Exploring Unintended User Behaviors and Dark Patterns on Video Streaming Platforms. In Designing Interactive Systems Conference (DIS '22). Association for Computing Machinery, New York, NY, USA, 776–791. https://doi.org/10.1145/3532106.3533562 | ACM | [[Dark patterns in Streaming Platforms]]
+|Article | [Article](https://reader.elsevier.com/reader/sd/pii/S1071581922000799?token=F3AF781E753539EA3B16E5A0A8F10EF0077BDE72FBCB3EFB84DA926BFA01B8744BDF7F6C8D6BC19B52949BEBA3DCC195&originRegion=eu-west-1&originCreation=20221012145747)| Kelly Widdicks, Christian Remy, Oliver Bates, Adrian Friday, Mike Hazas, Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences, International Journal of Human-Computer Studies,Volume 165,2022,102853,ISSN 1071-5819, https://doi.org/10.1016/j.ijhcs.2022.102853.| Connected Papers | [[Leads to reduce Data Demand]]
 
 # Articles to study (Ln section)
 - [DIGITAL SUFFICIENCY -> qd est-ce qu'on considère qu'on a une conduite éco vis-à-vis des technologies ?](https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf)
@@ -18,6 +19,10 @@
 - [All you can stream: Investigating the role of user behavior for greenhouse gas intensity of video streaming](https://sci-hub.hkvisa.net/10.1145/3401335.3401709)
 	keywords: Video streaming, LCA, pro-environmental behavior, ICT, interdisciplinary, survey
 - [Physicalizing Sustainable Development Goals Data: An Example with SDG 7 (Affordable and Clean Energy)](https://dl.acm.org/doi/pdf/10.1145/3491101.3519638)
+
+SUPER MEGA IMPORTANT !!! à lire au plus vite
+- [Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences](https://reader.elsevier.com/reader/sd/pii/S1071581922000799?token=B7D47648582CEB5C1B4AB1171DF7B46315CE603BA1920838EB5CA23CBB2F730260897813044775FF56F8B2567C34F6D2&originRegion=eu-west-1&originCreation=20221011083432)
+
 # Articles to study (Brice Section)
 
 ## Interesting ++
