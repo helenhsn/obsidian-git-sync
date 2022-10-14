@@ -10,15 +10,22 @@
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3290605.3300696)| Kelly Widdicks, Mike Hazas, Oliver Bates, and Adrian Friday. 2019. Streaming, Multi-Screens and YouTube: The New (Unsustainable) Ways of Watching in the Home. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 466, 1–13. https://doi.org/10.1145/3290605.3300696 | ACM | [[Data demand analysis 3]]
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3532106.3533562)| Akash Chaudhary, Jaivrat Saroha, Kyzyl Monteiro, Angus G. Forbes, and Aman Parnami. 2022. “Are You Still Watching?”: Exploring Unintended User Behaviors and Dark Patterns on Video Streaming Platforms. In Designing Interactive Systems Conference (DIS '22). Association for Computing Machinery, New York, NY, USA, 776–791. https://doi.org/10.1145/3532106.3533562 | ACM | [[Dark patterns in Streaming Platforms]]
 |Article | [Article](https://reader.elsevier.com/reader/sd/pii/S1071581922000799?token=F3AF781E753539EA3B16E5A0A8F10EF0077BDE72FBCB3EFB84DA926BFA01B8744BDF7F6C8D6BC19B52949BEBA3DCC195&originRegion=eu-west-1&originCreation=20221012145747)| Kelly Widdicks, Christian Remy, Oliver Bates, Adrian Friday, Mike Hazas, Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences, International Journal of Human-Computer Studies,Volume 165,2022,102853,ISSN 1071-5819, https://doi.org/10.1016/j.ijhcs.2022.102853.| Connected Papers | [[Leads to reduce Data Demand]]
+|Article | [Article](https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf)| Tilman Santarius, Jan C. T. Bieser, Vivian Frick, Mattias Höjer, Maike Gossen, Lorenz M. Hilty, Eva Kern, Johanna Pohl, Friederike Rohde, Steffen Lange. Digital sufficiency: conceptual considerations for ICTs on a finite planet, Received: 9 December 2021 / Accepted: 22 April 2022, https://doi.org/10.1007/s12243-022-00914-x| Springer | [[Defining Digital sufficiency]]
 
 # Articles to study (Ln section)
-- [DIGITAL SUFFICIENCY -> qd est-ce qu'on considère qu'on a une conduite éco vis-à-vis des technologies ?](https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf)
-	keywords: Green IT · ICT for sustainability · Sustainable software · Sustainable production and consumption · Rebound effects · Economic growth · Degrowth
+
 - [Towards a Material Ethics of Computing: Addressing the Uneven Environmental Stakes of Digital Infrastructures](https://dl.acm.org/doi/10.1145/3491101.3505649)
 	keywords:
 - [All you can stream: Investigating the role of user behavior for greenhouse gas intensity of video streaming](https://sci-hub.hkvisa.net/10.1145/3401335.3401709)
 	keywords: Video streaming, LCA, pro-environmental behavior, ICT, interdisciplinary, survey
 - [Physicalizing Sustainable Development Goals Data: An Example with SDG 7 (Affordable and Clean Energy)](https://dl.acm.org/doi/pdf/10.1145/3491101.3519638)
+
+### Urgent articles :
+
+- [Undesigning the Internet: An exploratory study of reducing everyday Internet connectivity](https://easychair.org/publications/paper/VjQ1)
+- [Demand Around the Clock: Time Use and Data Demand of Mobile Devices in Everyday Life](https://dl.acm.org/doi/pdf/10.1145/3025453.3025730)
+- [The Limits of Evaluating Sustainability](https://sci-hub.hkvisa.net/10.1145/3080556.3080567)
+
 
 # Articles to study (Brice Section)
 

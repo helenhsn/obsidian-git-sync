@@ -1,20 +1,24 @@
 # Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences
 
 >[!Keywords]
-> Sustainability, Moderate, Meaningful, Interactions, Digital devuces, Online services, Digital wellbeing, Work productivity, Social relationships, Online privacy
+> Sustainability, Moderate, Meaningful, Interactions, Digital devices, Online services, Digital wellbeing, Work productivity, Social relationships, Online privacy
 
+---
 ## Issue
+
+
 >[!Important] 
 >Prior work in sustainable HCI has highlighted that there is **potential to design more “moderate” interactions** that reimagine these technologies to **reduce data demand** (and thus energy and infrastructure growth), whilst **simultaneously avoiding the potentially negative societal impacts** that users can experience on their wellbeing, productivity, relationships and privacy.
 
 
 ---
 ## Sustainable HCI
+
 >[!Definition]
 >Sustainable HCI (SHCI) addresses the growing environmental impacts arising from the use of internet-connected digital devices.
 
 >[!Important]
-> Need to  **avoid the unexpected trap** that **efficiency gains in computing** can lead to **additional growth in demand** (a noted ‘rebound effect’ known as Jevons paradox): we must create a **condition of “sufficiency”**, a **ceiling** at which capacity is reached and exponential growth stops. (See [[Defining Data sufficiency]]).
+> Need to  **avoid the unexpected trap** that **efficiency gains in computing** can lead to **additional growth in demand** (a noted ‘rebound effect’ known as Jevons paradox): we must create a **condition of “sufficiency”**, a **ceiling** at which capacity is reached and exponential growth stops. (See [[Defining Digital sufficiency]]).
 > 	This should create sufficient levels of digital device and online service use—otherwise, it is clear that the growth in demand will continue unchecked -> need to break the growth cycle
 
 
