@@ -1,7 +1,9 @@
 # Breaking the Cornucopian Paradigm: Towards Moderate Internet Use in Everyday Life
 
+Subjects targeted : #DataConsumptionAnalysis 
 
-[!Keywords]
+
+>[!Keywords]
 > Internet use, data demand, sustainability, everyday life, Cornucopian paradigm, Internet moderations, digital wellbeing, relationships, work productivity, online privacy
 
 
