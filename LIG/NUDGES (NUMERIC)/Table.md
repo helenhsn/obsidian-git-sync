@@ -20,9 +20,6 @@
 	keywords: Video streaming, LCA, pro-environmental behavior, ICT, interdisciplinary, survey
 - [Physicalizing Sustainable Development Goals Data: An Example with SDG 7 (Affordable and Clean Energy)](https://dl.acm.org/doi/pdf/10.1145/3491101.3519638)
 
-SUPER MEGA IMPORTANT !!! à lire au plus vite
-- [Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences](https://reader.elsevier.com/reader/sd/pii/S1071581922000799?token=B7D47648582CEB5C1B4AB1171DF7B46315CE603BA1920838EB5CA23CBB2F730260897813044775FF56F8B2567C34F6D2&originRegion=eu-west-1&originCreation=20221011083432)
-
 # Articles to study (Brice Section)
 
 ## Interesting ++
