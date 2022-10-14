@@ -1,4 +1,4 @@
-# Table of references
+netflixhttps://dl.acm.org/doi/10.1145/3474349.3480231# Table of references
 
 | Article type | Link | Complete reference (or DOI) |  Source | Description |
 |-------------|------|------------------------------|---------|------------------------|
@@ -20,28 +20,42 @@
 - [Physicalizing Sustainable Development Goals Data: An Example with SDG 7 (Affordable and Clean Energy)](https://dl.acm.org/doi/pdf/10.1145/3491101.3519638)
 # Articles to study (Brice Section)
 
+## Treated
+
++ [When Screen Time Isn't Screen Time: Tensions and Needs Between Tweens and Their Parents During Nature-Based Exploration](https://dl.acm.org/doi/10.1145/3411764.3445142)
+	Application that incit tweens to use less screens and go outside with their family.
+
++ [Monitoring Screen Time or Redesigning It?: Two Approaches to Supporting Intentional Social Media Use](https://dl.acm.org/doi/10.1145/3491102.3517722)
+	Time limit (despite being universal) might not be the best way to reduce our use of social media. There are other way such as working on notifications and ...
+
 ## Interesting ++
  * [Functional Digital Nudges: Identifying Optimal Timing for Effective Behavior Change](https://dl.acm.org/doi/10.1145/3290607.3312876)
  * [Good vibrations: can a digital nudge reduce digital overload?](https://dl.acm.org/doi/10.1145/3229434.3229463)
  * [Designing for Digital Detox: Making Social Media Less Addictive with Digital Nudges](https://dl.acm.org/doi/10.1145/3334480.3382810)
  * [Where did the time go?: an Android-based phone time management app](https://dl.acm.org/doi/10.5555/3447080.3447122)
 
-+ [Digital Nudging: Altering User Behavior in Digital Environments](https://www.semanticscholar.org/paper/Digital-Nudging%3A-Altering-User-Behavior-in-Digital-Mirsch-Lehrer/30633a83656b493627a4c2e5dca412040ebf92e8)
 + [Digital Nudging](https://link.springer.com/content/pdf/10.1007/s12599-016-0453-1.pdf)
 + [The Nudge Deck: A Design Support Tool for Technology-Mediated Nudging](https://sci-hub.st/https://dl.acm.org/doi/10.1145/3357236.3395485)
-+ [When Screen Time Isn't Screen Time: Tensions and Needs Between Tweens and Their Parents During Nature-Based Exploration](https://dl.acm.org/doi/10.1145/3411764.3445142)
-+ [Monitoring Screen Time or Redesigning It?: Two Approaches to Supporting Intentional Social Media Use](https://dl.acm.org/doi/10.1145/3491102.3517722)
 + [The Dark Side of Interaction Design: Nudges, Dark Patterns and Digital Addiction: Panel Presented at OZCHI 2019](https://dl.acm.org/doi/10.1145/3369457.3369547)
 + [The Dark Side of Interaction Design](https://dl.acm.org/doi/10.1145/3411763.3450397)
 + [Romadoro: Leveraging Nudge Techniques to Encourage Break-Taking](https://dl.acm.org/doi/10.1145/3474349.3480231)
-+ [Towards A Framework for Mobile Behavior Change Research](https://dl.acm.org/doi/10.1145/3183654.3183706)
-
++ [Toward sustainable software engineering (NIER track)](https://dl.acm.org/doi/10.1145/1985793.1985964)
 
 
 ## Not sure ???
 https://assets.website-files.com/5f340a9c3a168c42579d818b/5ffd48267e1b89297ed74d15_Digital%20Nudges%20for%20Screen%20Time%20Reduction%20(Zimmermann%20and%20Sobolev%2C%202020).pdf
 
+## Could not get access
++ [Towards A Framework for Mobile Behavior Change Research](https://dl.acm.org/doi/10.1145/3183654.3183706)
++ [Digital Nudging: Altering User Behavior in Digital Environments](https://www.semanticscholar.org/paper/Digital-Nudging%3A-Altering-User-Behavior-in-Digital-Mirsch-Lehrer/30633a83656b493627a4c2e5dca412040ebf92e8)
+
+## Not interesting
++ [A Decade of Sustainable HCI: Connecting SHCI to the Sustainable Development Goals](https://dl.acm.org/doi/10.1145/3411764.3445069)
 
 ### Y'a rien 
 "eco feedback" AND "household" NOT "energy"
 
+
+## Keywords
+  + sense of agency
+  + digital wellbeing
