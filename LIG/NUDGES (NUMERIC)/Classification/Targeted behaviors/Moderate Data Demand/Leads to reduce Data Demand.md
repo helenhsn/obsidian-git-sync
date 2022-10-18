@@ -115,6 +115,10 @@
 >
 > Users could **set their own limits during specific time periods**, alongside aid from the digital tool itself as it ‘learns’ the rate at which a user works, the time left for a deadline, and the amount of internet use that may be ‘acceptable’ in these constraints.
 
+**Others**
+- [I just want to hack myself to not get distracted’: Evaluating design interventions for self-control on facebook.](https://sci-hub.hkvisa.net/10.1145/3313831.3376672) -> browser extension to remove the newsfeed#16b from the Facebook homepage.
+- [Rotating online behavior change interventions increases effectiveness but also increases attrition](https://sci-hub.hkvisa.net/10.1145/3274364) -> browser extension that rotates behaviour change interventions for distracting websites, that is, the participants experienced different interventions between visits to the same site. (news feed blocker for Facebook, or hiding ’related videos' on YouTube.)
+
 
 #### Merging virtual and real-world experiences
 
@@ -144,6 +148,7 @@
 
 >Designs were also gamified through **virtual rewards** e.g. badges (P11), virtual money (P13) and tokens (P7) for device or service non-use.  P7 and P13 envisioned **money and tokens** would be **“spent” on interactions**, **enforcing blocked or limited access after they were spent**. (*lockout*)
 
+- [NUGU: A Group-based Intervention App for Improving Self-Regulation of Limiting Smartphone Use](https://sci-hub.hkvisa.net/10.1145/2675133.2675244) -> ’NUGU’ smartphone app. The participants were asked to specify a duration for which they wanted to stop using their smartphone (e.g., ‘studying for 30 minutes’). These limiting sessions were conceptualized as ‘missions’, and completing a mission gave the users virtual points. If a participant used the smartphone for anything except incoming calls, the mission failed. Participants could also form groups, start missions together, and compare their time-limiting efforts with those of their peers.
 
 - [ ] **Incentives and rewards**
 
@@ -167,6 +172,9 @@
 >   
 >-**Removing “access to photos or videos or something dynamic**, that might eventually reduce your interest in an app”.  
 
+**Examples : **
+
+- [True colors: Grayscale setting reduces screen time in college students.](https://www.tandfonline.com/doi/abs/10.1080/03623319.2020.1737461?journalCode=ussj20)
 
 - [ ] **Preventing interactions**
 

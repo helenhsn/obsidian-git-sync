@@ -49,4 +49,4 @@ The author analysis yielded three types of **eco-feedback design dimensions** :
 	- [[DISPLAY]]
 	- [[TIMING]]
 
-![[eco-feedback-class.png|700]]
+![[eco-feedback-class.png|200]]
