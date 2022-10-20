@@ -1,4 +1,4 @@
-netflixhttps://dl.acm.org/doi/10.1145/3474349.3480231# Table of references
+# Table of references
 
 | Article type | Link | Complete reference (or DOI) |  Source | Description |
 |-------------|------|------------------------------|---------|------------------------|
@@ -37,19 +37,38 @@ netflixhttps://dl.acm.org/doi/10.1145/3474349.3480231# Table of references
 + [Monitoring Screen Time or Redesigning It?: Two Approaches to Supporting Intentional Social Media Use](https://dl.acm.org/doi/10.1145/3491102.3517722)
 	Time limit (despite being universal) might not be the best way to reduce our use of social media. There are other way such as working on notifications and ...
 
-## Interesting ++
+## Interesting +++
+ + [Reducing Risk in Digital Self-Control Tools: Design Paterns and Prototype](https://sci-hub.st/https://dl.acm.org/doi/10.1145/3411763.3451843)
+ + [Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control Tools](https://dl.acm.org/doi/10.1145/3290605.3300361)
+ + [Coping with Digital Wellbeing in a Multi-Device World](https://dl.acm.org/doi/10.1145/3411764.3445076)
+ + [I Want My App That Way: Reclaiming Sovereignty Over Personal Devices](https://dl.acm.org/doi/10.1145/3411763.3451632)
+ + [Designing for Meaningful Interactions and Digital Wellbeing](https://dl.acm.org/doi/10.1145/3531073.3535255)
+ + [Designing technology that promotes users' digital wellbeing](https://dl.acm.org/doi/10.1145/3481823)
+
+## Interesting
  * [Functional Digital Nudges: Identifying Optimal Timing for Effective Behavior Change](https://dl.acm.org/doi/10.1145/3290607.3312876)
  * [Good vibrations: can a digital nudge reduce digital overload?](https://dl.acm.org/doi/10.1145/3229434.3229463)
  * [Designing for Digital Detox: Making Social Media Less Addictive with Digital Nudges](https://dl.acm.org/doi/10.1145/3334480.3382810)
  * [Where did the time go?: an Android-based phone time management app](https://dl.acm.org/doi/10.5555/3447080.3447122)
 
-+ [Digital Nudging](https://link.springer.com/content/pdf/10.1007/s12599-016-0453-1.pdf)
-+ [The Nudge Deck: A Design Support Tool for Technology-Mediated Nudging](https://sci-hub.st/https://dl.acm.org/doi/10.1145/3357236.3395485)
-+ [The Dark Side of Interaction Design: Nudges, Dark Patterns and Digital Addiction: Panel Presented at OZCHI 2019](https://dl.acm.org/doi/10.1145/3369457.3369547)
-+ [The Dark Side of Interaction Design](https://dl.acm.org/doi/10.1145/3411763.3450397)
-+ [Romadoro: Leveraging Nudge Techniques to Encourage Break-Taking](https://dl.acm.org/doi/10.1145/3474349.3480231)
-+ [Toward sustainable software engineering (NIER track)](https://dl.acm.org/doi/10.1145/1985793.1985964)
+ + [Digital Nudging](https://link.springer.com/content/pdf/10.1007/s12599-016-0453-1.pdf)
+ + [The Nudge Deck: A Design Support Tool for Technology-Mediated Nudging](https://sci-hub.st/https://dl.acm.org/doi/10.1145/3357236.3395485)
+ + [The Dark Side of Interaction Design: Nudges, Dark Patterns and Digital Addiction: Panel Presented at OZCHI 2019](https://dl.acm.org/doi/10.1145/3369457.3369547)
+ + [The Dark Side of Interaction Design](https://dl.acm.org/doi/10.1145/3411763.3450397)
+ + [Romadoro: Leveraging Nudge Techniques to Encourage Break-Taking](https://dl.acm.org/doi/10.1145/3474349.3480231)
+ + [Toward sustainable software engineering (NIER track)](https://dl.acm.org/doi/10.1145/1985793.1985964)
 
+ + [New Tab Page Recommendations Strongly Concentrate Web Browsing to Familiar Sources](https://dl.acm.org/doi/10.1145/3292522.3326011)
+ + [# The Goldilocks level of support: Using user reviews, ratings, and installation numbers to investigate digital self-control tools](https://dl.acm.org/doi/10.1016/j.ijhcs.2022.102869)
+ + [# “I Don’t Even Remember What I Read”: How Design Influences Dissociation on Social Media](https://dl.acm.org/doi/10.1145/3491102.3501899)
+ + [GoalKeeper](https://dl.acm.org/doi/10.1145/3314403)
+ + [# Exploring the Feasibility of Subliminal Priming on Web platforms](https://dl.acm.org/doi/10.1145/3232078.3232095)
+ + [# Designing for digital well-being](https://dl.acm.org/doi/10.1145/3373362)
+ + [# To Use or Abuse: Opportunities and Difficulties in the Use of Multi-channel Support to Reduce Technology Abuse by Adolescents](https://dl.acm.org/doi/10.1145/3512972)
+ + [# An informed consent model for managing the privacy paradox in smart buildings](https://dl.acm.org/doi/10.1145/3417113.3422180)
+ + [# Measuring Automated Influence: Between Empirical Evidence and Ethical Values](https://dl.acm.org/doi/10.1145/3461702.3462532)
+ + [# Overlooking Context: How do Defaults and Framing Reduce Deliberation in Smart Home Privacy Decision-Making?](https://dl.acm.org/doi/10.1145/3411764.3445672)
+ + [???](https://dl.acm.org/doi/10.1145/2851581.2892581)
 
 ## Not sure ???
 https://assets.website-files.com/5f340a9c3a168c42579d818b/5ffd48267e1b89297ed74d15_Digital%20Nudges%20for%20Screen%20Time%20Reduction%20(Zimmermann%20and%20Sobolev%2C%202020).pdf
@@ -61,8 +80,6 @@ https://assets.website-files.com/5f340a9c3a168c42579d818b/5ffd48267e1b89297ed74d
 ## Not interesting
 + [A Decade of Sustainable HCI: Connecting SHCI to the Sustainable Development Goals](https://dl.acm.org/doi/10.1145/3411764.3445069)
 
-### Y'a rien 
-"eco feedback" AND "household" NOT "energy"
 
 
 ## Keywords
