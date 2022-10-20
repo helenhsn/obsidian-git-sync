@@ -11,6 +11,7 @@
 |Article | [Article](https://dl.acm.org/doi/pdf/10.1145/3532106.3533562)| Akash Chaudhary, Jaivrat Saroha, Kyzyl Monteiro, Angus G. Forbes, and Aman Parnami. 2022. “Are You Still Watching?”: Exploring Unintended User Behaviors and Dark Patterns on Video Streaming Platforms. In Designing Interactive Systems Conference (DIS '22). Association for Computing Machinery, New York, NY, USA, 776–791. https://doi.org/10.1145/3532106.3533562 | ACM | [[Dark patterns in Streaming Platforms]]
 |Article | [Article](https://reader.elsevier.com/reader/sd/pii/S1071581922000799?token=F3AF781E753539EA3B16E5A0A8F10EF0077BDE72FBCB3EFB84DA926BFA01B8744BDF7F6C8D6BC19B52949BEBA3DCC195&originRegion=eu-west-1&originCreation=20221012145747)| Kelly Widdicks, Christian Remy, Oliver Bates, Adrian Friday, Mike Hazas, Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences, International Journal of Human-Computer Studies,Volume 165,2022,102853,ISSN 1071-5819, https://doi.org/10.1016/j.ijhcs.2022.102853.| Connected Papers | [[Leads to reduce Data Demand]]
 |Article | [Article](https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf)| Tilman Santarius, Jan C. T. Bieser, Vivian Frick, Mattias Höjer, Maike Gossen, Lorenz M. Hilty, Eva Kern, Johanna Pohl, Friederike Rohde, Steffen Lange. Digital sufficiency: conceptual considerations for ICTs on a finite planet, Received: 9 December 2021 / Accepted: 22 April 2022, https://doi.org/10.1007/s12243-022-00914-x| Springer | [[Defining Digital sufficiency]]
+|Article | [Article](https://sci-hub.hkvisa.net/10.1145/3411763.3451843)| R.X. Schwartz, Alberto Monge Roffarello, Luigi De Russis, and Panagiotis Apostolellis. 2021. Reducing Risk in Digital Self-Control Tools: Design Patterns and Prototype. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21). Association for Computing Machinery, New York, NY, USA, Article 334, 1–7. https://doi.org/10.1145/3411763.3451843| ACM | [[Leads to reduce Data Demand 2]]
 
 # Articles to study (Ln section)
 
@@ -24,7 +25,8 @@
 
 - [Undesigning the Internet: An exploratory study of reducing everyday Internet connectivity](https://easychair.org/publications/paper/VjQ1)
 - [Demand Around the Clock: Time Use and Data Demand of Mobile Devices in Everyday Life](https://dl.acm.org/doi/pdf/10.1145/3025453.3025730)
-- [The Limits of Evaluating Sustainability](https://sci-hub.hkvisa.net/10.1145/3080556.3080567)
+- [Reducing Risk in Digital Self-Control Tools: Design Patterns and Prototype](https://sci-hub.hkvisa.net/10.1145/3411763.3451843)
+- [Digital self-control interventions for distracting media multitasking - A systematic review](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581)
 
 
 # Articles to study (Brice Section)
