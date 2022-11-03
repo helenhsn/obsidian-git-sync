@@ -49,7 +49,7 @@
 - [’Habitlab’, a browser extension that rotates behaviour change interventions for distracting websites, that is, the participants experienced different interventions between visits to the same site](Kovacs, G., Wu, Z., & Bernstein, M. S. (2018). Rotating online behavior change interventions increases effectiveness but also increases attrition. Proceedings of the ACM on Human-Computer Interaction, 2, 1–25. [https://doi.org/10.1145/3274364](https://doi.org/10.1145/3274364)) -> news feed blocker for Facebook, or hiding ’related videos' on YouTube.
 - [Browser extension to remove the newsfeed#16b from the Facebook homepage.](Lyngs, U., Lukoff, K., Slovak, P., Seymour, W., Webb, H., Jirotka, M., Van Kleek, M., & Shadbolt, N. (2020). ‘I just want to hack myself to not get distracted’: Evaluating design interventions for self-control on facebook. _arXiv:2001.04180 [cs]_, arxiv 2001.04180. [https://doi.org/10.1145/3313831.3376672](https://doi.org/10.1145/3313831.3376672))
 
-- [Time Sidekick](https://sci-hub.hkvisa.net/10.1145/3411763.3451843) **see part 4.1**
+- [Time Sidekick](https://sci-hub.hkvisa.net/10.1145/3411763.3451843) **see part 4.1** (see [[Reducing Risk in Digital Self-Control Tools]])
 
 #### Reward and punishment
 

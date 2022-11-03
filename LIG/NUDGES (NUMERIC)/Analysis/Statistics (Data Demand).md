@@ -14,7 +14,7 @@ Subjects targeted : #DataConsumptionAnalysis
 consumption by 2030.
 
 >[!Notes]
->The need to decrease the demand for Internet data and use is particularly relevan for **smartphones**. The traffic consumption from these devices is expected to **grow, increasing 10 times** for mobile data between 2016–2022 and forming 50% of total global Internet traffic by 2022 (growing from 23% in 2017).
+>The need to decrease the demand for Internet data and use is particularly relevant for **smartphones**. The traffic consumption from these devices is expected to **grow, increasing 10 times** for mobile data between 2016–2022 and forming 50% of total global Internet traffic by 2022 (growing from 23% in 2017).
 >	Smartphones are the **most commonly used device** composing 68% of the total time people spend online, with mobile devices forming 75% of time online once tablets are considered.
 >
 

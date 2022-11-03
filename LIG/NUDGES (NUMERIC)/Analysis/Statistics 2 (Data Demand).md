@@ -1,6 +1,8 @@
-# 2 articles :
+# 2 articles:
 
 # Demand Around the Clock: Time Use and Data Demand of Mobile Devices in Everyday Life
+# &
+# Undesigning the Internet: An exploratory study of reducing everyday Internet connectivity
 
 
 >[!Keywords]
@@ -8,7 +10,7 @@
 
 
 >[!Important]
->The time use of applications on mobile devices has been extensively studied in prior work :
+>The time use of applications on mobile devices has been extensively studied in prior work:
 >- **Average duration of use** for an application lasts only **72 seconds**, yet the average use of devices totals to **59 minutes per day**.
 >- **Interactions with devices** have been found to range from **10–250 seconds**, with **each session** more likely to be for a **new interaction** rather than for following up a previous interaction.
 >- **How users revisit their smartphones** and applications.
@@ -60,7 +62,5 @@
 	- **listening to locally-stored or cached music**
 	- developing **special,** **celebratory times** (weekly or monthly) to more fully appreciate **streamed media**, rather than binge-watching.
 
-
-# Undesigning the Internet: An exploratory study of reducing everyday Internet connectivity
 
 

@@ -16,6 +16,7 @@
 >**Induce unawareness** by reducing autonomy of monitoring user time spent. 
 >These UI patterns are designed so that the **user is less able to get feedback on time spent** engaged in a viewing session.
 
+-> Cf [[Leads to reduce Data Demand 3]]
 
 ##### Extreme countdown
 
