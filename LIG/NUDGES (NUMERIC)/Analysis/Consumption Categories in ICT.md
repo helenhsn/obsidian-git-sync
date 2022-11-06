@@ -1,4 +1,4 @@
- # Digitalisation, energy and data demand: The impact of Internet traffic on overall and peak electricity consumption
+# Digitalisation, energy and data demand: The impact of Internet traffic on overall and peak electricity consumption
 
 Subjects targeted : #DataConsumptionAnalysis
 

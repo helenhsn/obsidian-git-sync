@@ -20,7 +20,6 @@
 
 ### Suggestions for improvement
 
-- Streaming providers can adjust default settings for  
-resolution
+- Streaming providers can adjust default settings for resolution
 - Politics have to adjust the system of energy labels of TVs and establish a right to repair on electronic products.  
 - Representative surveys are necessary to further identify determinants for environmentally relevant online video streaming behavior.

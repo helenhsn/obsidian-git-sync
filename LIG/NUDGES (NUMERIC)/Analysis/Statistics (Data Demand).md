@@ -10,8 +10,7 @@ Subjects targeted : #DataConsumptionAnalysis
 #### Notes
 > [!Description]
 > There are increasing concerns about the negative impacts that these services and devices have on the very users that access these technologies, such as issues of addiction and mental wellbeing (see [[Reducing Time Use - Description]])
-> Coinciding with these are **environmental concerns** over the rate of **growth in Internet connectivity** and the **resources needed** to **power the Internet** infrastructure, with ICT expected to grow to about **21% of our global electricity**  
-consumption by 2030.
+> Coinciding with these are **environmental concerns** over the rate of **growth in Internet connectivity** and the **resources needed** to **power the Internet** infrastructure, with ICT expected to grow to about **21% of our global electricity** consumption by 2030.
 
 >[!Notes]
 >The need to decrease the demand for Internet data and use is particularly relevant for **smartphones**. The traffic consumption from these devices is expected to **grow, increasing 10 times** for mobile data between 2016–2022 and forming 50% of total global Internet traffic by 2022 (growing from 23% in 2017).

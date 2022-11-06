@@ -16,7 +16,7 @@
 >**Induce unawareness** by reducing autonomy of monitoring user time spent. 
 >These UI patterns are designed so that the **user is less able to get feedback on time spent** engaged in a viewing session.
 
--> Cf [[Leads to reduce Data Demand 3]]
+-> Cf [[Leads to reduce Data Demand 2]]
 
 ##### Extreme countdown
 
@@ -44,8 +44,7 @@
 
 >[!Important]
 > These platforms use the power of **animated visual content** consumed through the path of least cognitive resistance that causes **instant gratifcation** through a simple hover interaction.
-> Participants wish for a **more conscious interaction method** instead  
-of videos starting automatically.
+> Participants wish for a **more conscious interaction method** instead of videos starting automatically.
 
 #####  Bias grind
 
@@ -55,3 +54,4 @@ of videos starting automatically.
 
 >[!Important]
 >Recommendation features **enable compulsiveness**, especially as the **viewing time of a session increases**. Provides **so many options** that sometimes users fall into an endless list of irrelevant videos.
+

@@ -1,10 +1,4 @@
-￼Urgent articles :
 
- ￼￼Reducing Risk in Digital Self-Control Tools: Design Patterns and Prototype￼￼￼￼￼￼￼￼￼Urgent articles :
-
- ￼￼Reducing Risk in Digital Self-Control Tools: Design Patterns and Prototype￼￼￼￼￼￼￼￼￼Urgent articles :
-
- ￼￼Reducing Risk in Digital Self-Control Tools: Design Patterns and Prototype￼￼￼￼￼￼￼￼# Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences
 
 >[!Keywords]
 > Sustainability, Moderate, Meaningful, Interactions, Digital devices, Online services, Digital wellbeing, Work productivity, Social relationships, Online privacy
