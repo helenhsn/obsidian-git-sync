@@ -30,7 +30,7 @@
 ## Most consuming device
 
 - **SmartTV** is the **more consuming** (regarding device production, data traffic and operational electricity demand).
-- **Smartphone** is the **less consuming**.
+- **Smartphone** is the **less consuming**. 
 
 ## Most used devices
 
@@ -62,8 +62,10 @@
 # 2. Dark Patterns -*What makes people consume more and more data?*
 
 >[!Articles related]
->[[Dark patterns in Streaming Platforms]]
+>[[Dark patterns in Streaming Platforms]] [[Reclaiming Sovereignty Over Personal Devices]]
 
+> [!DEFINITION] 
+> A carefully-designed interface that induce a user to act with specific intent of the developer based on a user’s cognitive biases.
 
 ![[Dark patterns.png]]
 
@@ -148,6 +150,11 @@
 
 >[!Articles related]
 >[[Leads to reduce Data Demand]], [[Leads to reduce Data Demand 2]], [[Defining Digital sufficiency]], [[Examples]]
+
+One thing to notice is the lack of scientific literature about this topic compared to for instance Eco-feedback applied to energy. The few papers we found are all recent.
+
+>[!QUOTE]
+>Precisely because digital devices afford so much functionality, they allow us to test design interventions with greater precision, flexibility, and dramatically lower cost than changing the physical environment.
 
 ## A. Defining Digital Sufficiency
 
@@ -509,6 +516,10 @@
 
 >[!Articles related]
 >[[Leads to reduce Data Demand 2]], [[Examples]]
+
+## What has been done so far? (see [[Self-Control in Cyberspace; Applying Dual Systems Theory to a Review of Digital Self-Control Tools]])
+![[FrequencyTools.png]]
+Plenty of tools provide a wide panel of solutions for the user to reduce it's usage. However some are
 
 ## How can we evaluate Moderate Internet Use Designs? (see article in [[Leads to reduce Data Demand 2]] )
 

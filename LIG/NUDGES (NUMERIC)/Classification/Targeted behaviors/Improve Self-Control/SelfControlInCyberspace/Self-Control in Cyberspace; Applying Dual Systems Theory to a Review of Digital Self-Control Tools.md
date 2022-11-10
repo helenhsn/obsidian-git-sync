@@ -95,4 +95,3 @@ The authors have observed that few applications had functionalities in each grou
 ![[categories.png]]
 
 
-# Limitations
