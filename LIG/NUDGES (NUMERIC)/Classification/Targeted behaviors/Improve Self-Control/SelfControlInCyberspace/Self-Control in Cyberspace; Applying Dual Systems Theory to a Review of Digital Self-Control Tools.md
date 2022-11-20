@@ -90,7 +90,7 @@ The authors then **mapped** those functionalities to their dual system.
 ## Observations
 
 The authors have observed that few applications had functionalities in each groups but rather one or two.
-![[mapping.png]]
+![[mapping.png]] ^22c8db
 
 ![[categories.png]]
 
