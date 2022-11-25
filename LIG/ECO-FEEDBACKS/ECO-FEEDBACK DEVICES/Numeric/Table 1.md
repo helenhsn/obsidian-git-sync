@@ -42,6 +42,9 @@ ppl in B&W = what produces less greenhouse gases.
 [how to set tech free zones in your house](https://www.angi.com/articles/how-set-tech-free-zone-your-house.htm)
 [The 4 Most Important Tech-Free Zones at Home](https://www.purewow.com/tech/make-tech-free-zones-home)
 
+### Time management
+[A tangible approach to time management](https://dl.acm.org/doi/10.1145/2638728.2638794)
+
 ## Useful links
 
 https://www.researchgate.net/profile/Lars-Holmquist/publication/220979110_Informative_Art_Information_Visualization_in_Everyday_Environments/links/552d26e20cf21acb09213aea/Informative-Art-Information-Visualization-in-Everyday-Environments.pdf

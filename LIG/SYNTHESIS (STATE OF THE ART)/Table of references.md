@@ -23,6 +23,10 @@
 
 
 
+
+[A tangible approach to time management](https://dl.acm.org/doi/10.1145/2638728.2638794)
+[Towards A Framework for Mobile Behavior Change Research](https://dl.acm.org/doi/10.1145/3183654.3183706)
+
 # Articles to study (Brice Section)
 
 ## Treated
