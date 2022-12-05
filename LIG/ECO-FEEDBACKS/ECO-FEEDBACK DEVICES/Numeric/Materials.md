@@ -42,9 +42,6 @@ ppl in B&W = what produces less greenhouse gases.
 [how to set tech free zones in your house](https://www.angi.com/articles/how-set-tech-free-zone-your-house.htm)
 [The 4 Most Important Tech-Free Zones at Home](https://www.purewow.com/tech/make-tech-free-zones-home)
 
-### Time management
-[A tangible approach to time management](https://dl.acm.org/doi/10.1145/2638728.2638794)
-
 ## Useful links
 http://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/froehlich10_eco-feedback.pdf
 
@@ -114,3 +111,24 @@ Not an eco-feedback display but interesting -> could be made to track our video 
 ![[Pasted image 20221203110221.png]]
 
 [Elements of Consumption: an abstract visualization of household consumption](http://makonin.com/doc/SG_2011.pdf)
+
+# Brice
+
+
+### Time management
+[A tangible approach to time management](https://dl.acm.org/doi/10.1145/2638728.2638794)
+
+
+### Weather visualization (sculpture / music)
+https://www.ted.com/talks/nathalie_miebach_art_made_of_storms
+
+### Audio visualization
+[Aesthetic and auditory enhancements for multi-stream information sonification](https://dl.acm.org/doi/10.1145/1413634.1413678)
+[Musical data: a novel approach to create music from mobile data](https://dl.acm.org/doi/10.1145/3236112.3236164)
+[Ambient Display using Musical Effects](https://dl.acm.org/doi/10.1145/1111449.1111541)
+
+### Language 
+[Models for environmental literacy](https://dl.acm.org/doi/10.1145/3450507.3457439)
+
+### Interactive display
+[Picture navigation using an ambient display and implicit interactions](https://dl.acm.org/doi/10.1145/1324892.1324939)
