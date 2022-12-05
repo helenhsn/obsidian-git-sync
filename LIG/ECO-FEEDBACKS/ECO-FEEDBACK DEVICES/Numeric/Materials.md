@@ -114,3 +114,4 @@ Not an eco-feedback display but interesting -> could be made to track our video 
 ![[Pasted image 20221203110221.png]]
 
 [Elements of Consumption: an abstract visualization of household consumption](http://makonin.com/doc/SG_2011.pdf)
+-> artificial life (a-life) populations that are linked directly to consumption and are visualized using real-time fluid dynamics on an ambient display
