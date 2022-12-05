@@ -111,6 +111,9 @@ Not an eco-feedback display but interesting -> could be made to track our video 
 ![[Pasted image 20221203110221.png]]
 
 [Elements of Consumption: an abstract visualization of household consumption](http://makonin.com/doc/SG_2011.pdf)
+-> artificial life (a-life) populations that are linked directly to consumption and are visualized using real-time fluid dynamics on an ambient display
+
+
 
 # Brice
 
@@ -132,3 +135,4 @@ https://www.ted.com/talks/nathalie_miebach_art_made_of_storms
 
 ### Interactive display
 [Picture navigation using an ambient display and implicit interactions](https://dl.acm.org/doi/10.1145/1324892.1324939)
+
