@@ -58,26 +58,12 @@ https://ieeexplore.ieee.org/abstract/document/7160868
 ![[Pasted image 20221123155715.png]]
 [Display methods of indoor IoT devices at smart home.](https://www.researchgate.net/publication/303905634_SALA_Smartphone-Assisted_Localization_Algorithm_for_Positioning_Indoor_IoT_Devices/figures?lo=1)
 
----
-
-![[Pasted image 20221203095146.png]]
-[The PowerHouse: A Persuasive Computer Game Designed to Raise Awareness of Domestic Energy Consumption](https://www.researchgate.net/publication/220962692_The_PowerHouse_A_Persuasive_Computer_Game_Designed_to_Raise_Awareness_of_Domestic_Energy_Consumption](https://www.researchgate.net/publication/220962692_The_PowerHouse_A_Persuasive_Computer_Game_Designed_to_Raise_Awareness_of_Domestic_Energy_Consumption/figures)
 
 ---
 
 ![[Pasted image 20221203095316.png]]
 [Jetsam: Exposing our Everyday Discarded Objects](https://www.researchgate.net/publication/253388767_Jetsam_Exposing_our_Everyday_Discarded_Objects)
 
----
-
-![[Pasted image 20221203100709.png]]
-![[Pasted image 20221203102807.png]]
-[WATTSBurning: Design and Evaluation of an Innovative Eco-Feedback System](https://hal.inria.fr/hal-01497454/document)
--> To test the concepts described above a novel interface was developed for the eco- feedback system. It consisted of a video based animation of a well-known forest site.  Based on the consumption level several elements of that landscape would change.
--> Based on the consumption level several elements of that landscape would change. The electricity real time consumption was mapped as the movement of the clouds in the background, and by adding and removing animals in the landscape.
--> More consumption meant that the clouds would pass by faster, and more appliances turned on or off meant more animals in the forest.
-[Timelapse of the application 1](https://www.youtube.com/watch?v=F_0lc2HR3go&t=4s)
-[Timelapse of the application 2](https://www.youtube.com/watch?time_continue=6&v=ABkf9tw9-Z0&feature=emb_logo)
 
 ---
 
@@ -89,9 +75,6 @@ https://ieeexplore.ieee.org/abstract/document/7160868
 
 ---
 
-
-![[Pasted image 20221203104153.png]]
-[The Affect of Lifestyle Factors on Eco-Visualization Design](https://arxiv.org/pdf/1405.5263.pdf)
 
 ----
 
@@ -113,7 +96,11 @@ Not an eco-feedback display but interesting -> could be made to track our video 
 [Elements of Consumption: an abstract visualization of household consumption](http://makonin.com/doc/SG_2011.pdf)
 -> artificial life (a-life) populations that are linked directly to consumption and are visualized using real-time fluid dynamics on an ambient display
 
-
+**Pistes/ouvertures**
+- IA
+- contexte pour que ça marche
+- ce qui a marché / ce qui n'a pas marché comme appareils -> vision globale
+- base de choses qui ont marché
 
 # Brice
 
