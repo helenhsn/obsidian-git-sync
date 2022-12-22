@@ -22,7 +22,7 @@
 >[!Definition]
 >A behavior can be encouraged or discouraged by removing or adding friction respectively.
 >Explanation : 
->- **removing friction** : the easier you can make a task, the greater the likelihood someone will complete it). By removing obstacles that can get in the way of an individual’s best intentions, organizations can encourage better choices and help individuals to act on their desired behaviors (ex : [[MyTime]] helps users self-regulate their smartphone app use over time)
+>- **removing friction** : the easier you can make a task, the greater the likelihood someone will complete it). By removing obstacles that can get in the way of an individual’s best intentions, organizations can encourage better choices and help individuals to act on their desired behaviors (ex : [[LIG/NUDGES (NUMERIC)/Classification/Type of nudges/Nudges found/MyTime]] helps users self-regulate their smartphone app use over time)
 > - **adding friction** : opposite.
 
 ##### Feedback nudges

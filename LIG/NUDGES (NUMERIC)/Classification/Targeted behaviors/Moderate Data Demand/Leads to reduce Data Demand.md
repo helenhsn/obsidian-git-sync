@@ -33,7 +33,7 @@
 #### Awareness of use
 
 > [!Important]
-> Designs could **raise awareness** of how, when or what they use technologies for—helping the participants and users who are already self-motivated to moderate their least meaningful use. (See [[MyTime]], [[Lock n' LoL]], [[Nudgit]]...).
+> Designs could **raise awareness** of how, when or what they use technologies for—helping the participants and users who are already self-motivated to moderate their least meaningful use. (See [[LIG/NUDGES (NUMERIC)/Classification/Type of nudges/Nudges found/MyTime]], [[Lock n' LoL]], [[Nudgit]]...).
 
 **Examples**
 
